@@ -1,8 +1,7 @@
-numpy 
+numpy
 pandas
 scikit-learn
-matlplotlib
-seaborn 
-sentence_transformers
-pickle
+matplotlib
+seaborn
+sentence-transformers
 streamlit
