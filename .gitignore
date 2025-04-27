@@ -1,0 +1,16 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore data file
+data.xlsx
+
+# (Optional) Ignore common Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
